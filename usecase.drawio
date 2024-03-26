@@ -1,9 +1,179 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T15:09:34.558Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" version="24.1.0" etag="IVZWzlEnKNw0SXW5g-R8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T08:47:48.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="J1PBK8MnwBttG2oJ0DWE" version="24.1.0" type="github" pages="2">
   <diagram name="Page-1" id="M9Ho8Sku1jpEdKHAjc6Z">
-    <mxGraphModel>
+    <mxGraphModel dx="788" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qtTBGTPro27aimJFmDIQ-232" value="Lebanese Roadmaster: Your Guide To Driving Excellence" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="399" y="90" width="420" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-233" value="Register/Login" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="192" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-234" value="View Learning Resources" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="190" y="192" width="192" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-235" value="Take Practice Tests" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="432" y="192" width="155" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-236" value="Access Road Rules" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="637" y="192" width="145" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-237" value="Access Emergency Information" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="832" y="192" width="234" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-238" value="View Test Results" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="349" y="294" width="141" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-239" value="Review Mistakes" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="397" width="131" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-240" value="Track Progress" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="294" width="119" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-241" value="Contact Support" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1116" y="192" width="131" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-242" value="Register/Login" style="curved=1;startArrow=none;endArrow=block;exitX=0.08676822518476048;exitY=0.9880514705882353;entryX=0.49921875;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-232" target="qtTBGTPro27aimJFmDIQ-233">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-243" value="View Learning Resources" style="curved=1;startArrow=none;endArrow=block;exitX=0.2479186718408694;exitY=0.9880514705882353;entryX=0.4989013671875;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-232" target="qtTBGTPro27aimJFmDIQ-234">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-244" value="Take Practice Tests" style="curved=1;startArrow=none;endArrow=block;exitX=0.42302370883846674;exitY=0.9880514705882353;entryX=0.5;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-232" target="qtTBGTPro27aimJFmDIQ-235">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-245" value="Access Road Rules" style="curved=1;startArrow=none;endArrow=block;exitX=0.5796734637805809;exitY=0.9880514705882353;entryX=0.500915948275862;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-232" target="qtTBGTPro27aimJFmDIQ-236">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-246" value="Access Emergency Information" style="curved=1;startArrow=none;endArrow=block;exitX=0.766880224829802;exitY=0.9880514705882353;entryX=0.4991653311965812;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-232" target="qtTBGTPro27aimJFmDIQ-237">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="949" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-247" value="View Test Results" style="curved=1;startArrow=none;endArrow=block;exitX=0.3089742789410083;exitY=0.9935661764705882;entryX=0.49952903368794327;entryY=0.011029411764705883;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-235" target="qtTBGTPro27aimJFmDIQ-238">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="419" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-248" value="Review Mistakes" style="curved=1;startArrow=none;endArrow=block;exitX=0.49952903368794327;exitY=0.9990808823529411;entryX=0.4994930820610687;entryY=-0.012867647058823529;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-238" target="qtTBGTPro27aimJFmDIQ-239">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-249" value="Track Progress" style="curved=1;startArrow=none;endArrow=block;exitX=0.6910257210589921;exitY=0.9935661764705882;entryX=0.5005580357142857;entryY=0.011029411764705883;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-235" target="qtTBGTPro27aimJFmDIQ-240">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qtTBGTPro27aimJFmDIQ-250" value="Contact Support" style="curved=1;startArrow=none;endArrow=block;exitX=0.9487485295389179;exitY=0.9880514705882353;entryX=0.4973759541984733;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="qtTBGTPro27aimJFmDIQ-232" target="qtTBGTPro27aimJFmDIQ-241">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1181" y="158" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="26kgpBwGCbNJde9QwC58" name="Page-2">
+    <mxGraphModel dx="1797" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-1" value="Future Driver" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="366" y="20" width="110" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-2" value="View Chapters" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="122" width="118" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-3" value="View Lessons" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="188" y="122" width="108" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-4" value="Take Practice Quiz" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346" y="122" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-5" value="Take Theoretical Practice Test" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="224" width="236" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-6" value="Take Road Sign Practice Test" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="449" y="224" width="223" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-7" value="Take Exam Simulator" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="546" y="122" width="166" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-8" value="View Statistics" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="762" y="122" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-9" value="Access" style="curved=1;startArrow=none;endArrow=block;exitX=-0.003977272727272727;exitY=0.7366319593817049;entryX=0.4992055084745763;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="KEdb-rmtMo76g9xiO4tc-1" target="KEdb-rmtMo76g9xiO4tc-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="79" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-10" value="Access" style="curved=1;startArrow=none;endArrow=block;exitX=-0.003977272727272727;exitY=0.9575027673049661;entryX=0.4982638888888889;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="KEdb-rmtMo76g9xiO4tc-1" target="KEdb-rmtMo76g9xiO4tc-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-11" value="Access" style="curved=1;startArrow=none;endArrow=block;exitX=0.49772727272727274;exitY=0.9880514705882353;entryX=0.49833333333333335;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="KEdb-rmtMo76g9xiO4tc-1" target="KEdb-rmtMo76g9xiO4tc-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-12" value="Access" style="curved=1;startArrow=none;endArrow=block;exitX=0.1920771613786951;exitY=0.9935661764705882;entryX=0.500049655720339;entryY=0.011029411764705883;rounded=0;" edge="1" parent="1" source="KEdb-rmtMo76g9xiO4tc-4" target="KEdb-rmtMo76g9xiO4tc-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="281" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-13" value="Access" style="curved=1;startArrow=none;endArrow=block;exitX=0.8045895052879716;exitY=0.9935661764705882;entryX=0.4999474495515695;entryY=0.011029411764705883;rounded=0;" edge="1" parent="1" source="KEdb-rmtMo76g9xiO4tc-4" target="KEdb-rmtMo76g9xiO4tc-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-14" value="Access" style="curved=1;startArrow=none;endArrow=block;exitX=0.9994318181818181;exitY=0.8928939227584775;entryX=0.49802334337349397;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="KEdb-rmtMo76g9xiO4tc-1" target="KEdb-rmtMo76g9xiO4tc-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KEdb-rmtMo76g9xiO4tc-15" value="Access" style="curved=1;startArrow=none;endArrow=block;exitX=0.9994318181818181;exitY=0.7010075813989097;entryX=0.4952473958333333;entryY=0.0055147058823529415;rounded=0;" edge="1" parent="1" source="KEdb-rmtMo76g9xiO4tc-1" target="KEdb-rmtMo76g9xiO4tc-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="821" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
