@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T10:01:33.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="piqEyjE8psV8PD9x3cX9" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T10:02:55.017Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="oQsyNPIy3JY4Y5chW4wg" version="24.2.0" type="github">
   <diagram name="Page-1" id="QPpZEPjIt43WbOSFnrUt">
     <mxGraphModel dx="2374" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,7 +147,10 @@
         <mxCell id="1pdSYxy8jMLRYQ2kTdl5-45" value="View lessons" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;labelBackgroundColor=default;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="70" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pXvdm67rYLfqTN8kAivB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1pdSYxy8jMLRYQ2kTdl5-47" target="pXvdm67rYLfqTN8kAivB-2">
+        <mxCell id="pXvdm67rYLfqTN8kAivB-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1pdSYxy8jMLRYQ2kTdl5-47" target="pXvdm67rYLfqTN8kAivB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pXvdm67rYLfqTN8kAivB-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1pdSYxy8jMLRYQ2kTdl5-47" target="pXvdm67rYLfqTN8kAivB-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1pdSYxy8jMLRYQ2kTdl5-47" value="Make practice quiz" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;labelBackgroundColor=default;spacingTop=8;" parent="1" vertex="1">
@@ -188,15 +191,6 @@
         </mxCell>
         <mxCell id="1pdSYxy8jMLRYQ2kTdl5-81" value="Exam simulator" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pXvdm67rYLfqTN8kAivB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pXvdm67rYLfqTN8kAivB-2" target="pXvdm67rYLfqTN8kAivB-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pXvdm67rYLfqTN8kAivB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pXvdm67rYLfqTN8kAivB-2" target="pXvdm67rYLfqTN8kAivB-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pXvdm67rYLfqTN8kAivB-2" value="" style="line;strokeWidth=10;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="900" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pXvdm67rYLfqTN8kAivB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pXvdm67rYLfqTN8kAivB-4" target="1pdSYxy8jMLRYQ2kTdl5-47">
           <mxGeometry relative="1" as="geometry" />
