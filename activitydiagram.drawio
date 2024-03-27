@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T10:22:34.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="SagBjbSKFOCbS0hZicvZ" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T10:23:20.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="7qMdjlzdcQ5BsiMKRAAL" version="24.2.0" type="github">
   <diagram name="Page-1" id="QPpZEPjIt43WbOSFnrUt">
     <mxGraphModel dx="1688" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="1pdSYxy8jMLRYQ2kTdl5-45" value="View lessons" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;labelBackgroundColor=none;spacingTop=8;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="70" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MrQW3pkEW-x8ZNcq5Yc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1pdSYxy8jMLRYQ2kTdl5-47" target="pXvdm67rYLfqTN8kAivB-60">
+        <mxCell id="4MrQW3pkEW-x8ZNcq5Yc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="1pdSYxy8jMLRYQ2kTdl5-47" target="pXvdm67rYLfqTN8kAivB-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1pdSYxy8jMLRYQ2kTdl5-47" value="Make practice quiz" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=1;labelBackgroundColor=none;spacingTop=8;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
@@ -264,10 +264,10 @@
         <mxCell id="pXvdm67rYLfqTN8kAivB-54" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=10;labelBackgroundColor=none;spacingTop=8;rounded=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="1275" y="905" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4MrQW3pkEW-x8ZNcq5Yc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pXvdm67rYLfqTN8kAivB-60" target="pXvdm67rYLfqTN8kAivB-4">
+        <mxCell id="4MrQW3pkEW-x8ZNcq5Yc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="pXvdm67rYLfqTN8kAivB-60" target="pXvdm67rYLfqTN8kAivB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4MrQW3pkEW-x8ZNcq5Yc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pXvdm67rYLfqTN8kAivB-60" target="pXvdm67rYLfqTN8kAivB-6">
+        <mxCell id="4MrQW3pkEW-x8ZNcq5Yc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="pXvdm67rYLfqTN8kAivB-60" target="pXvdm67rYLfqTN8kAivB-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pXvdm67rYLfqTN8kAivB-60" value="" style="line;strokeWidth=10;html=1;rounded=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
